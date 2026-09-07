@@ -809,3 +809,12 @@ Updated [`MudListDemo.razor`](./Pages/Components/DataDisplay/MudListDemo.razor) 
 - Added conditional rendering for the editable secondary navigation item when both text values are empty
 - Aligned list, list-item, and subheader initial values with the MudBlazor API defaults
 - Enabled multiple sidebar groups to remain expanded and opened Buttons, Charts, Form & Inputs, and Table by default
+
+## 2026-09-07
+
+### Icon Button Demo Option
+
+Updated [`MudIconButtonDemo.razor`](./Pages/Components/Buttons/MudIconButtonDemo.razor):
+
+- Added a `Drop Shadow` checkbox after `Disabled`
+- Bound the option to the preview with the API-default value disabled
